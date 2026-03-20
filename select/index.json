@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "Eat Pray Love",
+  "base_artist": "Paul Russell",
+  "createdAt": "2026-03-20T08:11:57.329397Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Eat Pray Love",
+      "artist": "Dynamicduo",
+      "has_synced": true,
+      "path": "select/01_Eat_Pray_Love_Dynamicduo.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Better Days (From \"Eat Pray Love\")",
+      "artist": "Eddie Vedder",
+      "has_synced": false,
+      "path": "select/02_Better_Days_(From__Eat_Pray_Love_)_Eddie_Vedder.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Better Days (From \"Eat Pray Love\")",
+      "artist": "Eddie Vedder",
+      "has_synced": true,
+      "path": "select/03_Better_Days_(From__Eat_Pray_Love_)_Eddie_Vedder.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Eat Pray Love",
+      "artist": "Paul Russell",
+      "has_synced": false,
+      "path": "select/04_Eat_Pray_Love_Paul_Russell.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "먹고하고자고 Eat Pray Love",
+      "artist": "Dynamicduo",
+      "has_synced": true,
+      "path": "select/05_먹고하고자고_Eat_Pray_Love_Dynamicduo.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Eat Pray Love",
+      "artist": "Paul Russell",
+      "has_synced": true,
+      "path": "select/06_Eat_Pray_Love_Paul_Russell.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "먹고하고자고 (Eat Pray Love)",
+      "artist": "Dynamic Duo",
+      "has_synced": true,
+      "path": "select/07_먹고하고자고_(Eat_Pray_Love)_Dynamic_Duo.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Samba de Bencao (From \"Eat Pray Love\")",
+      "artist": "Sabrinha Ceu",
+      "has_synced": false,
+      "path": "select/08_Samba_de_Bencao_(From__Eat_Pray_Love_)_Sabrinha_Ceu.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Eat Pray Love",
+      "artist": "Paul Russell",
+      "has_synced": false,
+      "path": "select/pl_01_Eat_Pray_Love_Paul_Russell.txt"
+    }
+  ]
+}
